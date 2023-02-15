@@ -1,0 +1,21 @@
+.residentForm{
+    padding: 30px 0 10px;
+    text-align: center;
+}
+
+.residentForm_input{
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.residentForm_btn{
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 40px;
+    font-size: 20px;
+}
